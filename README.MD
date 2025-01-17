@@ -1,7 +1,6 @@
 
 
 
-<output>output/Capa do podcast.png
     
    
 # Projeto Podcast Gerado por I.A.s
